@@ -1,0 +1,14 @@
+{
+    "name": "Project_1_Remake",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.2",
+        "mongoose": "^5.0.7",
+        "nodemon": "^1.15.1"
+    }
+}
