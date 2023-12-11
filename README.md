@@ -1,4 +1,4 @@
-# Project Title: NodeBooks - NodeJS & MongoDB Book Management API
+# NodeBooks - NodeJS & MongoDB Book Management API
 
 ## Repository Description
 
